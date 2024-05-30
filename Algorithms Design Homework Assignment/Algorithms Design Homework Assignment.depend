@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1717002640 source:c:\users\cori2\desktop\scoala\code blocks\code_skeleton_lab10\algorithms design homework assignment\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"codeeditor.h"
+
+1717002961 c:\users\cori2\desktop\scoala\code blocks\code_skeleton_lab10\algorithms design homework assignment\codeeditor.h
+
+1717002961 source:c:\users\cori2\desktop\scoala\code blocks\code_skeleton_lab10\algorithms design homework assignment\codeeditor.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"codeeditor.h"
+
+1717003383 source:c:\users\cori2\desktop\scoala\code blocks\tema\algorithms design homework assignment\codeeditor.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"codeeditor.h"
+
+1717003383 c:\users\cori2\desktop\scoala\code blocks\tema\algorithms design homework assignment\codeeditor.h
+
+1717079511 source:c:\users\cori2\desktop\scoala\code blocks\tema\algorithms design homework assignment\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"codeeditor.h"
+

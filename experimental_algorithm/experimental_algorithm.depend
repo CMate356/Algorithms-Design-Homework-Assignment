@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1717037711 source:c:\users\cori2\desktop\scoala\code blocks\tema\experimental data algorithm\experimental_algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
